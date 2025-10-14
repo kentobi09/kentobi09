@@ -1,6 +1,5 @@
 # 💫 About Me:
-I want money  ![Unemplyed count](https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg)
-
+I want money  ![Unemployed count](https://komarev.com/ghpvc/?username=kentobi09&style=flat-square)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//ken-robbie-galapate-48b1162a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:galapatekenrobbie@gmail.com) 
