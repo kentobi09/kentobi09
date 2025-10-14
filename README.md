@@ -1,5 +1,5 @@
 # 💫 About Me:
-I want money
+I want money  ![Unemplyed count](https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg)
 
 
 ## 🌐 Socials:
