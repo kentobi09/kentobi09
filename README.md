@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Pinoy unemployed dev ![Unemployed count](https://komarev.com/ghpvc/?username=kentobi09&style=flat-square)
 
 ## 🌐 Socials:
